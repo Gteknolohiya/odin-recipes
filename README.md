@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Odin Recipes
 
@@ -35,3 +36,7 @@ If you would like to contribute to the Odin Recipes project, you can submit new 
 The Odin Recipes project is released under the [MIT](https://choosealicense.com/licenses/mit/) license. Please see the project's license file for more information on attribution and usage restrictions.
 
 
+=======
+# odin-recipes
+## Project name: Odin Recipes
+>>>>>>> 8234f9d10559d0e35dd8f0b5a5ea128d2eafa5c7
