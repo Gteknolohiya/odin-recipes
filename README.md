@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Odin Recipes
 
 Odin Recipes is a collection of recipes with detailed ingredients lists and step-by-step instructions for preparing a wide variety of dishes. The project is designed to be a valuable resource for home cooks of all levels, from beginners looking for guidance in the kitchen to experienced cooks seeking new ideas and inspiration.
@@ -34,9 +32,3 @@ If you would like to contribute to the Odin Recipes project, you can submit new 
 
 ## License
 The Odin Recipes project is released under the [MIT](https://choosealicense.com/licenses/mit/) license. Please see the project's license file for more information on attribution and usage restrictions.
-
-
-=======
-# odin-recipes
-## Project name: Odin Recipes
->>>>>>> 8234f9d10559d0e35dd8f0b5a5ea128d2eafa5c7
